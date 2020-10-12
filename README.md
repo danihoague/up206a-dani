@@ -3,7 +3,7 @@ I am a second year PhD student in IoES studying environmental justice and STS
 
 [learn more about my research interests] (https://www.ioes.ucla.edu/person/danielle-hoague/)
   
-### On this page, I will be combining my fields of study and looking at the construction of information about _blood lead level_ data mapping in Los Angeles.
+### On this page, I will be combining my fields of study and looking at the construction of information about blood lead level data mapping in Los Angeles.
 
 Analyzing blood lead level data is important because:
 
