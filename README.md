@@ -1,7 +1,7 @@
 # _A warm welcome to Dani Hoague's repository_
 I am a second year PhD student in IoES studying environmental justice and STS
 
-	[click here to learn more about my research interests] (https://www.ioes.ucla.edu/person/danielle-hoague/)
+	[learn more about my research interests] (https://www.ioes.ucla.edu/person/danielle-hoague/)
   
 ## On this page, I will be combining my fields of study and looking at the construction of information about ***blood lead level*** data mapping in Los Angeles.
 
