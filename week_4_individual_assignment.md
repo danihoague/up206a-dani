@@ -1,5 +1,6 @@
-_UCLA Mapathon_
-QGIS and Pyhothon Workshop 10/29/20
+__UCLA Mapathon__
+
+*QGIS and Pyhothon Workshop 10/29/20*
 
 At the beginning of the workshop, I had trouble downloading the QGIS software. While waiting to practice the materials, I was able to follow along with the workshop. I found the workshop extremely useful because I am working on a research project with well-versed partners in QGIS. I was surprised to learn that data can be scraped from a wide variety of online platforms with Python code's proper arrangements. The concept still seems abstract to me, but I am willing to learn the necessary configurations to add to my toolkit. During the data collection process, I was pleased to see the UCLA IDRE geocoding tool in action. The sandbox geocoding tool is an object I will become familiar with in my research to map points near one another. I pulled up one of the spreadsheets that I have been working on and plugged in one of the housing unit numbers to find a more specific coordinate than what I could locate via google maps. 
 It felt necessary to do so to ensure I could ask further questions during the workshop if needed. Moving forward, I am curious to know if there are more packages in python to geocode the x and y coordinates from a map that cannot easily be read into QGIS. I found it fascinating that there are quick ways to join the attributes by their field value because we struggled to enter our crime incident and EJSM data in the Jupyter notebook. I want to experiment further by transporting the tables into R for data manipulation/cleaning, as it is a platform that I am more comfortable using. 
